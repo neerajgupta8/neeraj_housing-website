@@ -1,0 +1,76 @@
+.nav-pills > li > button.active {
+    background-color: #dc3545 !important;
+    color: #fff !important;
+  }
+  
+  .nav-pills button {
+    color: #dc3545 !important;
+    font-weight: 600;
+  }
+
+  .housing-class{
+      color: orange !important;
+  }
+
+  .pricing-card-title {
+    color: #dc3545 !important;
+  }
+  
+  .price-hr {
+    width: 80%;
+    margin: 20px auto;
+  }
+
+  .header{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    
+  }
+
+  .heading-hr {
+    height: auto;
+    width: 5%;
+    border: 2px solid darkorange;
+  
+    
+  }
+  
+  .carousel .carousel-item {
+    height: 600px;
+  }
+  
+  .carousel-item img {
+    position: absolute;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    min-height: 500px;
+  }
+  
+  .hero-section {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    right: 0%;
+    width: 40%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 2;
+  }
+  
+  .heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  
+  .heading h1 {
+    font-size: 60px;
+  }
